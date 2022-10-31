@@ -1,5 +1,3 @@
-rewatch "90 minute Scheme to C compiler presentation"
-
 reread the paper
 
 reread the tutorial
